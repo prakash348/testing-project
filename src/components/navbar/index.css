@@ -1,0 +1,17 @@
+.nav_container {
+  background-color: rgb(214, 236, 243);
+  padding: 10px;
+  height: 5rem;
+  font-size: 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.ul_container {
+  display: flex;
+  list-style: none;
+  justify-content: space-around;
+  width: 500px;
+  align-items: center;
+}
